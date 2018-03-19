@@ -144,6 +144,10 @@ main {
         right: 5%;
         bottom: -8%;
         color: $secondarycolor;
+
+        @include mobile {
+          width: 160px;
+        }
     }
 
     &.third {
@@ -183,7 +187,7 @@ article {
         top: auto;
         width: auto;
         transform: none;
-        margin: 2rem 10px;
+        margin: 2rem 1rem 5rem;
         font-size: 1.5rem;
         text-align: center;
     }
@@ -265,7 +269,7 @@ footer {
         padding: 2rem 0 4rem;
 
         @include mobile {
-          padding: 1rem 0 3rem;
+          padding: 1rem 1rem 3rem;
         }
 
         p {
@@ -282,9 +286,9 @@ footer {
                 margin: 1rem 2rem;
 
                 @include mobile {
-                  width: 120px;
+                  width: 110px;
                   height: auto;
-                  margin: 10px;
+                  margin: 1rem;
                 }
             }
         }
