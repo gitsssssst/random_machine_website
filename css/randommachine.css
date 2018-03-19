@@ -22,6 +22,7 @@ html {
   font-size: 24px;
   line-height: 1.25;
   font-family: 'kirkubold', sans-serif;
+  font-weight: normal;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: grayscale;
@@ -83,7 +84,8 @@ main {
     text-align: center;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
-    margin: 0; }
+    margin: 0;
+    font-weight: normal; }
   .sticker.rotate-right {
     -webkit-transform: rotate(8deg);
             transform: rotate(8deg); }
