@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="337px" height="337px" viewBox="0 0 337 337" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="255.5 334.883921 215.977494 360 194.308039 318.487585 147.522506 320.477494 149.512415 273.691961 108 252.022506 133.116079 212.5 108 172.977494 149.512415 151.308039 147.522506 104.522506 194.308039 106.512415 215.977494 65 255.5 90.1160789 295.022506 65 316.691961 106.512415 363.477494 104.522506 361.487585 151.308039 403 172.977494 377.883921 212.5 403 252.022506 361.487585 273.691961 363.477494 320.477494 316.691961 318.487585 295.022506 360"></polygon>
+        <filter x="-13.2%" y="-11.9%" width="125.1%" height="125.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280x720-copy" transform="translate(-85.000000, -46.000000)">
+            <g id="Star">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFF00" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

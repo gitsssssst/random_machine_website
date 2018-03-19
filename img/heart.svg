@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="446px" height="389px" viewBox="0 0 446 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M200.00199,97.2969798 L199.906468,97.3388584 C198.271642,43.4570376 154.168159,0.280187861 100.002985,0.280187861 C44.80199,0.280187861 0.0517412935,45.1242052 0.0517412935,100.440867 C0.0517412935,128.348974 11.441791,153.590809 29.8169154,171.753165 L200.251741,344.283078 L370.272637,171.572688 C388.541294,153.423295 399.855721,128.256243 399.855721,100.440867 C399.855721,45.1242052 355.106468,0.280187861 299.904478,0.280187861 C245.753234,0.280187861 201.659701,43.4351012 200.00199,97.2969798 Z" id="path-1"></path>
+        <filter x="-9.8%" y="-10.2%" width="118.5%" height="121.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280x720-copy" transform="translate(-772.000000, -1701.000000)">
+            <g id="Page-1" transform="translate(797.060974, 1722.155862)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFF00" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polygon id="Fill-1" mask="url(#mask-2)" points="-4.92338308 349.268627 404.830846 349.268627 404.830846 -4.70536127 -4.92338308 -4.70536127"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
